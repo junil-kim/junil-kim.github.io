@@ -6,6 +6,8 @@ author_profile: true
 taxonomy: about
 ---
 
+![image-center]({{ site.url }}/assets/img/about-1.jpg){: .align-center width="30%" height="30%"}
+
 ## 소개
 
 평일은 여의도 직장인:necktie:  

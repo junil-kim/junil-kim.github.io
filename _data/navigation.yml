@@ -14,11 +14,11 @@ main:
   #   url: /hiking-course/
   # - title: "등산지식"
   #   url: /hiking-information/
+  - title: "About"
+    url: /about/
+  - title: "등산코스"
+    url: /categories/등산코스/
   - title: "Tags"
     url: /tags/
   - title: "Categories"
     url: /categories/
-  - title: "등산코스"
-    url: /categories/등산코스/
-  - title: "About"
-    url: /about/
