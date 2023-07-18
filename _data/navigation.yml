@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,15 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  # - title: "등산코스"
+  #   url: /hiking-course/
+  # - title: "등산지식"
+  #   url: /hiking-information/
+  - title: "Tags"
+    url: /tags/
+  - title: "Categories"
+    url: /categories/
+  - title: "등산코스"
+    url: /categories/등산코스/
+  - title: "About"
+    url: /about/
