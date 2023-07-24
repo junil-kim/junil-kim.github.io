@@ -8,3 +8,4 @@ gem "jekyll-gist"
 gem 'jekyll-include-cache' # 추가
 gem "jemoji"
 gem 'faraday-retry'
+gem "minimal-mistakes-jekyll"
