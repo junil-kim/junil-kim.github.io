@@ -6,7 +6,7 @@ author_profile: true
 taxonomy: about
 ---
 
-![image-center]({{ site.url }}/assets/img/about-1.jpg){: .align-center width="30%" height="30%"}
+![image-center]({{ site.url }}/assets/img/about-1.jpg){: .align-center width="65%" height="65%"}
 
 ## 소개
 
@@ -21,7 +21,7 @@ taxonomy: about
 
 ## 등산기록
 
-### BAC인증(블랙야크)
+> BAC인증(블랙야크)
 
 - 명산100 : 54/100
 - 명산100+ : 6/104
@@ -29,4 +29,4 @@ taxonomy: about
 - 낙동정맥 : 3/61
 - 한북정북 : 2/26
 
-### 영남알프스완등(2022년) :trophy:
+> 영남알프스완등(2022년) :trophy:
